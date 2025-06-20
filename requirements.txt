@@ -1,0 +1,5 @@
+streamlit==1.33.0
+tensorflow==2.16.1
+newspaper3k==0.2.8
+nltk==3.8.1
+lxml-html-clean==0.1.0
